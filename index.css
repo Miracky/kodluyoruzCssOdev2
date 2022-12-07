@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ 
+a, a:hover{
+    text-decoration: none;
+}
+
+.header{
+    text-align: center;
+}
+
+.logo{
+    margin-top: 200px;
+}
+
+.googledownBtn{
+    background-color: greenyellow;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 20px;
+}
+
+.search{
+    height: 31px;
+    width: 500px;
+    background-color: #adadad;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.buttons{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.buttonsA{
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: pink;
+    background-size: 25px;
+    padding: 8px;
+}
+
+.buttonsA:hover{
+    background-color: #adadad;
+}
+
+.buttonsA:active{
+    color: darkblue;
+}
+
+.downpanel{
+    margin-top: 20px;
+}
+
+.leftpanel{
+    text-align: center;
+    float: left;
+    width: 37%;
+    height: 100px;
+    margin-left: 100px;
+    background-color: aqua;
+}
+
+.leftpanel>p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.leftpanel>a{
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+.middlepanel{
+    background-color: aqua;
+    width: 15%;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+}
+
+.middlepanel>a{
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+.rightpanel{
+    text-align: center;
+    float: right;
+    background-color: aqua;
+    width: 37%;
+    height: 100px;
+    margin-right: 100px;
+}
+
+#email{
+    height: 25px;
+    width: 250px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.subBtn{
+    border-style: none;
+    background-color: purple;
+    color: white;
+    width: 20%;
+    height: 20%;
+    margin-top: 5px;
+}
+
+.rightpanel>a{
+    margin-left: 5px;
+}
+
+footer{
+    margin-top: 100px;
+    text-align: center;
+}
